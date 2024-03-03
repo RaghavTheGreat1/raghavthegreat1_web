@@ -78309,7 +78309,7 @@ s.a.ahI(r)},
 $S:0}
 A.J6.prototype={
 I(a){var s=null
-return new A.wv(A.aBy(s,s,new A.uR("images/rj.png",s,s)),64,s)}}
+return new A.wv(A.aBy(s,s,new A.uR("images/rj.webp",s,s)),64,s)}}
 A.Es.prototype={}
 A.mu.prototype={
 a0W(){var s,r,q,p,o,n=this,m=n.a
